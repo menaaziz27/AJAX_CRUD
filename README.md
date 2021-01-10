@@ -13,6 +13,6 @@ this application is just the four crud operations using only ajax and dummy data
 
 # how it works?
 
-- npm install dependencies
+- run **npm install** to install dependencies
 - run application with **node app.js**
-- go ahead to localhost:3000 in your browser
+- go ahead to **localhost:3000** in your browser
